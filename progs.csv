@@ -1,0 +1,5 @@
+name,description,type
+cmake,"build tool",,
+polkit,"policy management",,
+hyprland,"display server",,
+kitty,"terminal emulator",,
